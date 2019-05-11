@@ -1,2 +1,3 @@
 # modwrite
-Easily write TCL based module files using a simple Python CLI.
+
+Easily create template TCL based module files using a simple Python CLI.
