@@ -43,10 +43,20 @@ class Modwrite(object):
             modfile.write(file_contents)
             modfile.close()
 
-    def create_module_dir(self, directory_name):
-        """Create the directory for module files."""
+    def create_module_dir(self, path):
+        """Create the directory for module files.
+
+        Args:
+            path:
+        """
         pass
 
-    def make_temp_modules(self, software_dir, module_dir, language):
-        """Make temporary module files for all software."""
+    def make_temp_modules(self, software_path, module_path, language):
+        """Make temporary module files for all software.
+
+        Args:
+            software_path:
+            module_path:
+            language:
+        """
         pass
