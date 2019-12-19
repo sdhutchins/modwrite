@@ -7,7 +7,7 @@ setup(
     packages=find_packages(),
     author='Shaurita Hutchins',
     author_email='sdhutchins@outlook.com',
-    description='A CLI to easily create template TCL or lua based module files.',
+    description='A CLI to easily create template TCL or lua module files.',
     license='MIT',
     keywords="modules lmod tcl template",
     url='https://github.com/sdhutchins/modwrite',
